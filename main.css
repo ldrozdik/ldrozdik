@@ -2133,7 +2133,8 @@ input, select, textarea {
 			border-radius: 100%;
 			width: 10px;
 			height: 10px;
-			text-align: center;
+			position: relative;
+			left: 20px
 
 		}
 
