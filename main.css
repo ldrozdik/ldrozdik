@@ -2138,16 +2138,11 @@ input, select, textarea {
 
 		}
 
-			.image.avatar:before {
-				display: none;
-			}
 
 			.image.avatar img {
 				border-radius: 50%;
 				width: 300%;
 				padding: 20px;
-				align-items: center ;
-
 			}
 
 	.image.fit.thumb.fifteenth {
