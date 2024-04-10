@@ -1,0 +1,18 @@
+<! DOCTYPE HTML>
+<html>
+  <head>
+    <title>Oh God This Sucks</title>
+    <meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="main.css" href="main.js" href="main.scss"/>
+  </head>
+  <body class="is-preload">
+  <header id="header">
+    <div class="major">
+    <h1><strong>Oh God This Sucks</strong></h1>
+    </div>
+  </header>
+  <div id="main">
+    <section id="one">
+      
+</html>
